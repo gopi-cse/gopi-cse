@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gopi-cse
+- 👋 Hi, I’m Gopika
 - 👀 Building dynamic, responsive web applications with Java, HTML, CSS, and JavaScript. Passionate about creating seamless user interfaces and optimized performance.
 - 🌱 I’m currently doing my UG degree in computer science engineering .
 - 💞️ I’m looking to collaborate on Java-based web applications and frontend projects.
