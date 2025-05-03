@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gopi-cse
-- 👀 I’m interested in python and I like to do roubust application using python.
+- 👀 Building dynamic, responsive web applications with Java, HTML, CSS, and JavaScript. Passionate about creating seamless user interfaces and optimized performance.
 - 🌱 I’m currently doing my UG degree in computer science engineering .
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Java-based web applications and frontend projects.
 - 📫 How to reach me -mailme at gopikagopika1773@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: 
